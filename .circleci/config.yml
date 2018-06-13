@@ -25,7 +25,7 @@ image_config: &image_config
 
   MYSQL_CLIENT: false
 
-  POSTGRES_CLIENT: true
+  POSTGRES_CLIENT: false
 
   DOCKERIZE: false
 
